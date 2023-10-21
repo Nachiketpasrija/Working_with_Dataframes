@@ -24,7 +24,8 @@ Key files in this repository include:
 - `create_data_frame.R`: R script for creating the data frame and appending the "age" column.
 
 ## Sample Output
-There are no specific visualizations in this assignment. The primary goal was to create and manipulate the data frame as per the instructions.
+![image](https://github.com/Nachiketpasrija/Working_with_Dataframes/assets/148599951/f61e628b-6924-474c-8085-c2aca07aadf2)
+
 
 ## Submission
 Please submit the GitHub repository link on Brightspace (d2l).
